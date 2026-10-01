@@ -1,0 +1,6 @@
+machine_id,machine_name,install_year,ideal_rate_per_min
+M1,CNC 01,2021,3.0
+M2,CNC 02,2021,3.0
+M3,CNC 03,2017,2.8
+M4,CNC 04,2017,2.8
+M5,CNC 05,2010,2.4
